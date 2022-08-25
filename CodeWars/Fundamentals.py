@@ -1,3 +1,5 @@
+# Funções de nível fundamental no Codewars
+
 # Retorna o dobro de cada número dentro da array
 def dobroArray(array):
     for i in range(0, len(array)):
@@ -44,4 +46,4 @@ def festival(besta, prato):
 
 # Retorna string contando ovelhas
 def contarOvelhas(qtd):
-    return ''.join(f"{i} sheep..." for i in range(1,qtd+1))
+    return ''.join(f"{i} sheep..." for i in range(1, qtd+1))
