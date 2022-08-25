@@ -30,3 +30,18 @@ def numeroInvertido(num):
 # Retorna 0 se array estiver vazio ou com apenas 1 número
 def somaArraySemExtremos(array):
     return 0 if array is None or len(array) <= 1 else sum(array) - max(array) - min(array)
+
+
+# Repete string n vezes
+def repetirString(text, qtd):
+    return text * qtd
+
+
+# Retorna verdadeiro se nome da besta e do prato iniciam e terminam com as mesmas letras
+def festival(besta, prato):
+    return True if besta[0] == prato[0] and besta[len(besta)-1] == prato[len(prato)-1] else False
+
+
+# Retorna string contando ovelhas
+def contarOvelhas(qtd):
+    return ''.join(f"{i} sheep..." for i in range(1,qtd+1))
