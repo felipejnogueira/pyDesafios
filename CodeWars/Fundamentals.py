@@ -47,3 +47,13 @@ def festival(besta, prato):
 # Retorna string contando ovelhas
 def contarOvelhas(qtd):
     return ''.join(f"{i} sheep..." for i in range(1, qtd+1))
+
+
+# Retorna número se é par ou ímpar
+def imparPar(num):
+    return 'Par' if num % 2 == 0 else 'Impar'
+
+
+# Recebe dois números  e retorna a soma em binario
+def retornaBinarioSoma(num1, num2):
+    return bin(num1 + num2)[2:]
