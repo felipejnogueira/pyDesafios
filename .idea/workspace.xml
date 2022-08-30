@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fedd3b3-2d26-44ec-b695-b57ca1b57c6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CodeWars.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/Fundamentals.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/Fundamentals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/TestsFundamentals.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/TestsFundamentals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/RankUp.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/RankUp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/TestRankUp.py" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/TestRankUp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,28 @@
       <recent name="C:\Users\felipe.nogueira\PycharmProjects\Desafios\CodeWars" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TestsFundamentals (1)">
+  <component name="RunManager" selected="Python.TestRankUp">
+    <configuration name="TestRankUp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeWars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeWars" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeWars/TestRankUp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="TesteBeginner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,6 +225,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TestRankUp" />
         <item itemvalue="Python.TestsFundamentals (1)" />
         <item itemvalue="Python.TesteBeginner" />
         <item itemvalue="Python.TestsFundamentals" />
